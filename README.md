@@ -2,7 +2,6 @@
 
 <h3 align="center">Full stack Developer, de Argentina</h3>
 
--Estoy en busqueda laboral activa <br/>
 -Mis hard skills son: **Javascript, React, Redux, NodeJS, PostgresSQL** <br/>
 -Email de contacto: **moyano.matiasnicolas.mm@gmail.com** <br/>
 <p align="left">
